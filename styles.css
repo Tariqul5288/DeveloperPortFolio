@@ -58,7 +58,7 @@ nav a {
 }
 
 .banner {
-    padding: 30px 30 px 00px 150px;
+    /* padding: 30px 30 px 00px 150px; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -66,6 +66,7 @@ nav a {
 
 .banner .profile-picture {
     width: 500px;
+    padding-right: 250px;
 
 }
 
@@ -96,6 +97,7 @@ nav a {
 
 .banner-content {
     max-width: 500px;
+    padding-left: 200px;
 }
 
 .about {
@@ -233,5 +235,11 @@ footer {
 }
 
 .social-links a {
-    margin-right: 25px;
+    margin-right: 30px;
+
+}
+
+.social-links {
+    /* margin-left: 250px; */
+    text-align: center;
 }
