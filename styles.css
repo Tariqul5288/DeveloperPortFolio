@@ -232,4 +232,6 @@ footer {
     width: 100%;
 }
 
-..contact input
+.social-links a {
+    margin-right: 25px;
+}
